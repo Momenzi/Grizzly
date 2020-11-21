@@ -1,9 +1,9 @@
-### Zanimljivosti discord.js BOT 
+# ZanimljivostiBOT
 <!--**zanimljivosti bot** je bot kreiran iz zabave za Black Rose Community. -->
 
-[![Trenutno discord bot je jos uvijek u razvoju]
+### Trenutno discord bot je jos uvijek u razvoju]
 
-🤖 300+ zanimljivosti
+🤖 300+ zanimljivosti\n
 🤖 Javascript - discord.js
 
 
