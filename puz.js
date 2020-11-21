@@ -49,4 +49,4 @@ bot.on("message", (msg) => {
         }
     }
 });
-bot.login("NTY4OTMzMTIzODc5MDc1ODU4.XLpSQg.Y910RASOscPbqU4JQ8-vNZlJxaM");
+bot.login(" VAS TOKEN ");
