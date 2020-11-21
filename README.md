@@ -4,8 +4,9 @@
 #### ZanimljivostiBot je bot kreiran iz zabave za Black Rose Community
 
 🤖 300+ zanimljivosti <br />
-🤖 Javascript - discord.js <br />
+🤖 Javascript - discord.js <br /><br />
 
+Imate 2 nacina za ispisivanje zanimljivosti preko timera i preko komande <br />
 
 ![alternativetext](https://i.ibb.co/2vTbkyJ/Screenshot-20.png) <br />
 
