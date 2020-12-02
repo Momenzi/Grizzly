@@ -4,6 +4,9 @@
 #### ZanimljivostiBot je bot kreiran iz zabave za Black Rose Community
 
 🤖 300+ zanimljivosti <br />
+🤖 True/False quiz <br />
+🤖 200+ citata <br />
+🤖 darkHumor (random salje fotografije memeova) <br />
 🤖 Javascript - discord.js <br /><br />
 
 Imate 2 nacina za ispisivanje zanimljivosti preko timera i preko komande <br />
@@ -13,6 +16,4 @@ Imate 2 nacina za ispisivanje zanimljivosti preko timera i preko komande <br />
 ### Install & Run <br />
 ##### npm i <br />
 ##### node puz.js
-
-Invite: https://discord.com/api/oauth2/authorize?client_id=568933123879075858&permissions=67632192&scope=bot
 
