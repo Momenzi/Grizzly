@@ -9,9 +9,10 @@
 🤖 darkHumor (random salje fotografije memeova) <br />
 🤖 Javascript - discord.js <br /><br />
 
-Imate 2 nacina za ispisivanje zanimljivosti preko timera i preko komande <br />
+Timing poruke za citate i zanimljivosti <br />
 
 ![alternativetext](https://i.ibb.co/2vTbkyJ/Screenshot-20.png) <br />
+![alternativetext](https://i.ibb.co/swFntNY/Screenshot-85.jpg) <br />
 
 ### Install & Run <br />
 ##### npm i <br />
