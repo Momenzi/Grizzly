@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Pitanje 1",
+        "answer": true
+    },
+    {
+        "question": "Pitanje 2",
+        "answer": false
+    }
+]
