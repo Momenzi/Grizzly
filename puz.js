@@ -60,4 +60,4 @@ bot.on("message", (msg) => {
         }
     }
 });
-bot.login("NzgxNTg2MDI1MzIyOTA1NjEw.X7_ytQ.fsLKOwlKfZIY37Bbd9CCCs3_vqI");
+bot.login("BOT_TOKEN");
